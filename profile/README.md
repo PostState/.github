@@ -1,51 +1,67 @@
 # Welcome to the Decentralized Digital Poststate
 
-We are creating a Decentralized Digital Poststate that will provide a positive and constructive example of how to address existing economic, social, and cultural-psychological problems!
+[Scheme of the PostState](https://github.com/PostState/About_PostState/blob/main/Scheme_of_PostState.png)
 
-We are individuals from around the world residing in various states' territories, but we spend most of our time on the internet.
+We are creating a Decentralized Digital Poststate, which will show us a positive and constructive example of how to solve the existing Economic, Social and Cultural-Psychological problems!
 
-Despite our differences in gender, age, languages spoken, and worldviews, we do not engage in conflict or discrimination against one another on any grounds.
+We are people who live all over the world in the territories of various states, but at the same time, we spend most of our time on the Internet
 
-The internet has enabled us to form Digital Communities that cater to our needs more effectively than the states within whose territories we reside. Everyone has a genuine right to vote, and we assist and cooperate with each other. Most importantly, we feel safe!
+Despite the fact that we are all of different sex and age, speak different languages, and have different ideas about the world order, we don’t fight with each other, and don’t discriminate against each other on any grounds!
 
-What may be considered utopian in traditional states is the norm in our Digital Communities.
+The Internet has helped us unite into Digital Communities that meet our needs much more effectively than the states in whose territories we live: everyone has a real right to vote, we help each other, cooperate, and most importantly, we feel safe!
 
-Of course, this does not imply that we are without problems, but within our Digital Communities, everyone has the opportunity to participate in addressing these issues.
+What is considered a utopia in classical states is the norm in our Digital Communities!
 
-The creation of a Decentralized Digital Poststate is not only a solution to the problems of our Digital Communities but also an effort to demonstrate how easily we can improve everyone's lives!
+Of course, this doesn’t mean that we don’t have problems, but in our Digital Communities everyone has the opportunity to take part in solving these problems!
+
+And the creation of a Decentralized Digital Poststate is not only a solution to the problems of our Digital Communities:
+We want to show how easy it is to make everyone’s life better!
 
 ## The Main Idea
+
 ### The Web3-Personality and the Decentralized Digital Poststate
-- The right to self-identification and its protection
-- The development of the internet and the emergence of blockchains have given rise to new digital forms of interaction among people. Now, individuals in different state territories can connect and interact in digital spaces.
-- These interactions lead to novel forms of social and economic cooperation, resulting in new cultural behaviors and self-identification among individuals.
-- In the digital realm, individuals from different countries increasingly identify as Web3-personalities, whose social, economic, and cultural activities predominantly occur on the internet, rather than in physical spaces.
-- The lives of Web3-persons are more influenced by interactions within Digital Communities than by their interactions with the state in whose territory they reside.
+### The right to self-identification and the protection of this right
 
-Almost all traditional nations have their respective states that, at least in official documents, claim to protect their citizens' interests and rights. However, Web3-persons lack an institution to safeguard their rights and interests.
+The development of the Internet and the emergence of Blockchains have given rise to new digital forms of interaction between people:
+Now people who are in the territories of different states can meet and interact in digital spaces
 
-It appears that the time has come to rectify this and establish an institution dedicated to protecting the rights and interests of Web3-individuals.
+Between these people, new forms of social and economic interaction are being formed, which gives rise to new forms of cultural behavior, and also creates new forms of self-identification of the individual
 
-Our Decentralized Digital Poststate, built on blockchain technology, addresses issues common to all traditional states while incorporating functionalities that are unfeasible within traditional states.
+In the process of digital interaction, people from different countries associate themselves less and less with representatives of classical cultures and nationalities, and more and more associate themselves with such a concept as a Web3-personality
 
-POSTHUMAN BLOCKCHAIN is a social, economic, and cultural experiment!
+Web3-person is a person whose social, economic and cultural activity takes place on the Internet much more often and more intensively than in the material space
 
-POSTHUMAN BLOCKCHAIN serves as a bridge between Web2 and Web3, a link between the Material World and the Digital World!
+The life of a Web3-person depends much more on interaction within the Digital Communities than on interaction with the state on whose territory the Web3-person resides
 
-POSTHUMAN BLOCKCHAIN is a Decentralized Digital Poststate!
+Almost all classical nations have their own states, which in one way or another protect the interests and rights of their citizens. At least this is what is stated in the official documents of these states.
+But Web3-persons haven’t yet had an institution that would protect the rights and interests of Web3-persons
 
-## Foundations of the Decentralized Digital Poststate
-**Poststate for Citizens, not Citizens for Poststate!**
+Apparently, the time has come to correct this, and create an institution to protect the rights and interests of Web3-individuals
 
-The most crucial value for the Decentralized Digital Poststate is its Citizens!
+Our Decentralized Digital Poststate based on Blockchain technology, solves the problems inherent in all classical states, and also has functionality that cannot be implemented in classical states
 
-A Decentralized Digital Poststate exists for the benefit of its Citizens, and not the other way around!
+- POSTHUMAN BLOCKCHAIN is a Social, Economic and Cultural experiment!
+- POSTHUMAN BLOCKCHAIN is a bridge between Web2 and Web3, a bridge between the Material World and the Digital World!
+- POSTHUMAN BLOCKCHAIN is a Decentralized Digital Poststate!
 
-Citizens (and the protection of their rights and interests) are the primary motivation behind the creation of the Decentralized Digital Poststate!
+## Foundations of the Decentralized Digital PostState
 
-The Poststate is a tool that Citizens use to safeguard their rights and interests:
-- The Poststate cannot manage, coerce, or dictate how Citizens should act in any manner.
-- The Poststate should not possess any functionality that could infringe upon or violate the rights and interests of Citizens.
-- If there is any potential for the Poststate to compromise the rights and interests of Citizens, it is the duty of Citizens to reconfigure the Poststate. The functionality for reformatting the Poststate must be integrated into its design.
+### PostState for Citizens, not Citizens for PostState!
 
-The foundations of the Poststate can evolve and expand over time, based on the interests and will of the Citizens.
+[Participants of the PostState](https://github.com/PostState/About_PostState/blob/main/Participants_of_PostState.md)
+
+The most important value for the Decentralized Digital Poststate is Citizens!
+
+Decentralized Digital Poststate for Citizens, not Citizens for the Decentralized Digital Poststate!
+
+Citizens (protection of their rights and interests) are the main reason for the creation of the Decentralized Digital Poststate!
+
+Poststate is a tool that Citizens use to protect their rights and interests:
+
+- PostState is not able to manage, or tell Citizens how to act in any way
+- PostState should not have any functionality that would allow infringing or violating the rights and interests of Citizens
+- If there is any possibility of infringement of the rights and interests of Citizens by the Poststate, Citizens are obliged to reformat the Poststate, and the reformatting functionality must be present in the functionality of the Poststate
+- Foundations of the Poststate can be changed and supplemented over time, based on the interests of the Citizens, and by the will of the Citizens
+
+- [Prototype of New Decentralized Governance Model](https://github.com/PostState/About_PostState/blob/main/Decentralized_Governance_Model.md)
+- [Functionality of the PostState](https://github.com/PostState/About_PostState/blob/main/Functionality_of_PostState.md)
