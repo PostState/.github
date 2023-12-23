@@ -1,5 +1,7 @@
 # Welcome to the Decentralized Digital Poststate
 
+![Screenshot from 2023-12-23 16-25-18](https://github.com/PostState/.github/assets/38581319/6ccee9a3-ffd8-448b-aca3-5ebe46382978)
+
 [Scheme of the PostState](https://github.com/PostState/About_PostState/blob/main/PostState_Scheme.png)
 
 We are creating a Decentralized Digital Poststate, which will show us a positive and constructive example of how to solve the existing Economic, Social and Cultural-Psychological problems!
